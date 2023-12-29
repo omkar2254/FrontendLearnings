@@ -1,0 +1,25 @@
+.card{
+    width: 700px;
+    /* height: 350px; */
+    position: relative;
+    margin: 100px auto;
+    border-radius: 14px;
+
+}
+.card-img{
+    width: 100%;
+    position:relative;
+}
+.card-content{
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    bottom: 75px;
+    color: #fff;
+}
+.text{
+    padding: 6px;
+    border: none;
+    border-radius: 10px;
+    font-family:sans-serif;
+}
